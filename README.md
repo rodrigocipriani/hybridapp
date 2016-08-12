@@ -12,3 +12,7 @@
 *   React
 *   Meteor
 *   Cordova
+
+Aplicação de referência em usabilidade (Não de tecnologia):
+https://demo.vaadin.com/expense-manager/#/c553752acc
+Testar no celular, etc
