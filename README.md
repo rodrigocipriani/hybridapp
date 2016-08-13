@@ -33,3 +33,7 @@ Aplicativo de registro de atividades diárias.
 ##Sugestão de aplicativo 2:
 
 ???
+
+**Referências:**
+
+* https://github.com/rangle/typescript-react-redux-starter : Bem estruturada
