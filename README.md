@@ -1,6 +1,6 @@
 # hybridapp
 
-#Aplicação conceito para teste de aplicações hibridas
+Aplicação conceito para teste de aplicações hibridas
 
 **Tecnologias utilizadas:**
 
