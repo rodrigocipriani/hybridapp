@@ -1,8 +1,8 @@
 # hybridapp
 
-#Aplicação conceito para teste de aplicações hibridas#
+#Aplicação conceito para teste de aplicações hibridas
 
-**Técnologias utilizadas:**
+**Tecnologias utilizadas:**
 
 *   Node
 *   Express
@@ -16,3 +16,18 @@
 Aplicação de referência em usabilidade (Não de tecnologia):
 https://demo.vaadin.com/expense-manager/#/c553752acc
 Testar no celular, etc
+
+## Sugestão de aplicativo 1:
+
+Aplicativo de registro de atividades diárias.
+
+**Funcionalidades**
+
+* Registro rápido de atividades
+* categorização de atividades
+* Relatório temporal das atividades
+* ...
+
+##Sugestão de aplicativo 2:
+
+???
