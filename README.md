@@ -7,7 +7,8 @@ Aplicação conceito para teste de aplicações hibridas
 *   Node
 *   Express
 *   Sequelize
-*   TypeScript
+*   TypeScript (para o frontend)
+*   ES6 (para o backend)
 *   Redux
 *   React
 *   Meteor
