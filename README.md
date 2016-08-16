@@ -53,11 +53,13 @@ Mesma aplicação e mesmos frameworks
 * https://github.com/rangle/angular2-redux-example
 
 **Aplicação de referência em usabilidade:**
+
 Funciona muito bem no celular, no browser e também é um bom exemplo de
 Progressive Web Application.
 https://demo.vaadin.com/expense-manager/#/c553752acc
 Testar no celular, etc
 
 **Angular 2 e React Native juntos**
+
 Em português: https://www.infoq.com/br/news/2016/06/angular2-react-native
 Em inglês (mais completo): http://angularjs.blogspot.com.br/2016/04/angular-2-react-native.html
