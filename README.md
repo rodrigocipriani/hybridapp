@@ -11,9 +11,9 @@ Levando em consideração Agilidade no desenvolvimento, fácil escalabilidade e 
 *   TypeScript (para o frontend)
 *   ES6 (para o backend)
 *   Redux
-*   React
-*   Meteor
-*   Cordova
+*   React (React Native?)
+*   Meteor (Qual a vantagem de usa-los)
+*   Cordova (Caso não seja utilizado React Native)
 
 Aplicação de referência em usabilidade (Não de tecnologia):
 https://demo.vaadin.com/expense-manager/#/c553752acc
@@ -36,4 +36,6 @@ Aplicativo de registro de atividades diárias.
 
 **Referências:**
 
-* https://github.com/rangle/typescript-react-redux-starter : Bem estruturada
+Comparação entre Angular2 e React, com a mesma aplicação e mesmos frameworks.
+* https://github.com/rangle/typescript-react-redux-starter
+* https://github.com/rangle/angular2-redux-example
