@@ -9,15 +9,16 @@ Levando em consideração:
 
 **Tecnologias utilizadas:**
 
-*   Node
-*   Express
-*   Sequelize
-*   TypeScript (para o frontend)
-*   ES6 (para o backend)
-*   Redux
-*   React (React Native?)
-*   Meteor (Qual a vantagem de usa-los)
-*   Cordova (Caso não seja utilizado React Native)
+* Node
+* Express
+* Sequelize
+* TypeScript (para o frontend)
+* ES6 (para o backend)
+* Redux
+* React (React Native?)
+* Cordova (Caso não seja utilizado React Native)
+* Meteor (Qual a vantagem de usar? Será que não ficaremos 'preso' a ele?)
+* Realtime app (socket.io / engine.io / sockjs.js)
 
 ##Sugestão de aplicativo 1:
 
@@ -44,7 +45,7 @@ Aplicativo de registro de atividades diárias.
 * Relatório temporal das atividades
 * ...
 
-## Referências:
+## Referências (Selecionado somente as mais interessantes):
 
 **Comparação entre Angular2 e React.**
 Mesma aplicação e mesmos frameworks
