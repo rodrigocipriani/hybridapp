@@ -9,13 +9,18 @@ Levando em consideração:
 
 **Tecnologias utilizadas:**
 
+Backend
 * Node
 * Express
 * Sequelize
+
+Frontend
 * TypeScript (para o frontend)
 * ES6 (para o backend)
 * Redux
 * React (React Native?)
+
+Outros
 * Cordova (Caso não seja utilizado React Native)
 * Meteor (Qual a vantagem de usar? Será que não ficaremos 'preso' a ele?)
 * Realtime app (socket.io / engine.io / sockjs.js)
