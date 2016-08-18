@@ -63,3 +63,11 @@ Testar no celular, etc
 
 Em português: https://www.infoq.com/br/news/2016/06/angular2-react-native
 Em inglês (mais completo): http://angularjs.blogspot.com.br/2016/04/angular-2-react-native.html
+
+**Leituras**
+
+React Starter Kit Isomorphic - https://github.com/kriasoft/react-starter-kit
+
+Isomorphic - https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/
+Isomorphic - https://www.lullabot.com/articles/what-is-an-isomorphic-application
+Isomorphic - http://isomorphic.net/
