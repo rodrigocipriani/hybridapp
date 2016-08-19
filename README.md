@@ -72,6 +72,7 @@ Em inglês (mais completo): http://angularjs.blogspot.com.br/2016/04/angular-2-r
 **Leituras**
 
 React Starter Kit Isomorphic - https://github.com/kriasoft/react-starter-kit
+Angular 2 Universal. Isomorphic App - https://github.com/angular/universal
 
 Isomorphic - https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/
 Isomorphic - https://www.lullabot.com/articles/what-is-an-isomorphic-application
