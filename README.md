@@ -53,6 +53,7 @@ Aplicativo de registro de atividades diárias.
 ## Referências (Selecionado somente as mais interessantes):
 
 **Comparação entre Angular2 e React.**
+
 Mesma aplicação e mesmos frameworks
 * https://github.com/rangle/typescript-react-redux-starter
 * https://github.com/rangle/angular2-redux-example
@@ -66,14 +67,14 @@ Testar no celular, etc
 
 **Angular 2 e React Native juntos**
 
-Em português: https://www.infoq.com/br/news/2016/06/angular2-react-native
-Em inglês (mais completo): http://angularjs.blogspot.com.br/2016/04/angular-2-react-native.html
+* Em português: https://www.infoq.com/br/news/2016/06/angular2-react-native
+* Em inglês (mais completo): http://angularjs.blogspot.com.br/2016/04/angular-2-react-native.html
 
 **Leituras**
 
-React Starter Kit Isomorphic - https://github.com/kriasoft/react-starter-kit
-Angular 2 Universal. Isomorphic App - https://github.com/angular/universal
+* React Starter Kit Isomorphic - https://github.com/kriasoft/react-starter-kit
+* Angular 2 Universal. Isomorphic App - https://github.com/angular/universal
 
-Isomorphic - https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/
-Isomorphic - https://www.lullabot.com/articles/what-is-an-isomorphic-application
-Isomorphic - http://isomorphic.net/
+* Isomorphic - https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/
+* Isomorphic - https://www.lullabot.com/articles/what-is-an-isomorphic-application
+* Isomorphic - http://isomorphic.net/
