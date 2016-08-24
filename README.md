@@ -24,6 +24,7 @@ Outros
 * Cordova (Caso não seja utilizado React Native)
 * Meteor (Qual a vantagem de usar? Será que não ficaremos 'preso' a ele?)
 * Realtime app (socket.io / engine.io / sockjs.js)
+* Http (axios)
 
 ##Sugestão de aplicativo 1:
 
