@@ -50,6 +50,17 @@ Aplicativo de registro de atividades diárias.
 * Relatório temporal das atividades
 * ...
 
+## Sugestão de aplicativo 3:
+
+Aplicativo whitelist/blacklist
+
+**Funcionalidades**
+
+* Indicar se é favorável (white) ou desfavorável (black) um estabecimento
+* GPS
+* Oauth (Facebook, G+, Twitter)
+* ...
+
 ## Referências (Selecionado somente as mais interessantes):
 
 **Comparação entre Angular2 e React.**
