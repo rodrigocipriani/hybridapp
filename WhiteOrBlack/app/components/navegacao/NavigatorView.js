@@ -23,7 +23,7 @@ export const NavigatorView = () => (
         />
         <Text style={styles.logoText}>White or Black</Text>
         <Text>{' '}</Text>
-        <NavigatorItem>Menu 1</NavigatorItem>
+        <NavigatorItem>Sobre</NavigatorItem>
         <NavigatorItem>Menu 2</NavigatorItem>
         <NavigatorItem>Menu 3</NavigatorItem>
         <NavigatorItem>Menu 4</NavigatorItem>
