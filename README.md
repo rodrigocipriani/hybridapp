@@ -60,6 +60,7 @@ Aplicativo whitelist/blacklist
 * http://makeitopen.com/tutorials/building-the-f8-app/planning/
 * https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree
 * https://youtu.be/xsSnOQynTHs
+* http://blog.thebakery.io/todomvc-with-react-native-and-redux/ Projeto utilizando gerador de código
 
 **Comparação entre Angular2 e React.**
 Mesma aplicação e mesmos frameworks
