@@ -17,6 +17,9 @@ Levando em consideração:
 * Babel
 * Realtime app (socket.io / engine.io / sockjs.js)
 * Http (axios)
+* HMR (Hot Module Reload)
+* Redux
+* Devtools (Redux & React)
 
 ##Sugestão de aplicativo 1:
 
