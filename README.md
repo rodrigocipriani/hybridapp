@@ -3,7 +3,7 @@
 Aplicação conceito para teste de aplicações hibridas.
 Levando em consideração:
 
-* Agilidade no desenvolvimento
+* Agilidade no desenvolvimento (Devtools, Webpack, HMR)
 * Fácil escalabilidade
 * Código único para diversos dispositivos (browser, app, watch, etc).
 
@@ -20,6 +20,7 @@ Levando em consideração:
 * HMR (Hot Module Reload)
 * Redux
 * Devtools (Redux & React)
+* Webpack
 
 ##Sugestão de aplicativo 1:
 
