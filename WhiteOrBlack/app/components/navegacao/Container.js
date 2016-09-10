@@ -14,6 +14,7 @@ import {
 } from 'react-native';
 
 import {NavigatorView} from './NavigatorView';
+import {Header} from './Header';
 
 export const Container = React.createClass({
 
@@ -21,16 +22,20 @@ export const Container = React.createClass({
         children: React.PropTypes.element.isRequired
     },
 
-    render: function() {
+    render: function () {
         return (
             <View style={styles.wrap}>
 
                 <View style={styles.navigation}>
                     <NavigatorView />
                 </View>
-                <View style={styles.container}>
-                    <Text>Barra superior do BROWSER</Text>
-                    {this.props.children}
+                <View style={styles.containerWrapper}>
+                    <View style={styles.header}>
+                        <Header />
+                    </View>
+                    <View style={styles.container}>
+                        {this.props.children}
+                    </View>
                 </View>
             </View>
         );
@@ -42,6 +47,12 @@ const styles = StyleSheet.create({
     wrap: {
         flex: 1,
         flexDirection: 'row'
+    },
+    containerWrapper: {
+        flex: 1
+    },
+    header: {
+
     },
     container: {
         flex: 1

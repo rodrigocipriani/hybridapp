@@ -12,6 +12,7 @@ import {
 } from 'react-native';
 
 import {NavigatorView} from './NavigatorView';
+import {Header} from './Header';
 
 export const Container = ({
     children
@@ -20,7 +21,7 @@ export const Container = ({
                 drawerWidth={300}
                 drawerPosition={DrawerLayoutAndroid.positions.Left}
                 renderNavigationView={NavigatorView}>
-                <Text>Barra superior do ANDROID</Text>
+                <Header />
                 {children}
             </DrawerLayoutAndroid>
 
