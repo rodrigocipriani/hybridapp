@@ -3,7 +3,7 @@
 Aplicação conceito para teste de aplicações hibridas.
 Levando em consideração:
 
-* Agilidade no desenvolvimento
+* Agilidade no desenvolvimento (Devtools, Webpack, HMR)
 * Fácil escalabilidade
 * Código único para diversos dispositivos (browser, app, watch, etc).
 
@@ -17,6 +17,10 @@ Levando em consideração:
 * Babel
 * Realtime app (socket.io / engine.io / sockjs.js)
 * Http (axios)
+* HMR (Hot Module Reload)
+* Redux
+* Devtools (Redux & React)
+* Webpack
 
 ##Sugestão de aplicativo 1:
 
@@ -84,6 +88,7 @@ Testar no celular, etc
 * React Starter Kit Isomorphic - https://github.com/kriasoft/react-starter-kit
 * Angular 2 Universal. Isomorphic App - https://github.com/angular/universal
 * Redux + React - https://css-tricks.com/learning-react-redux/
+* Devtools - https://github.com/gaearon/redux-devtools
 
 * Isomorphic - https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/
 * Isomorphic - https://www.lullabot.com/articles/what-is-an-isomorphic-application
