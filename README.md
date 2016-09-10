@@ -12,12 +12,9 @@ Levando em consideração:
 * Node
 * Express
 * Sequelize
-* TypeScript (para o frontend)
-* ES6 (para o backend)
-* Redux
-* React (React Native?)
-* Cordova (Caso não seja utilizado React Native)
-* Meteor (Qual a vantagem de usar? Será que não ficaremos 'preso' a ele?)
+* ES6 ou 7
+* React e React Native
+* Babel
 * Realtime app (socket.io / engine.io / sockjs.js)
 
 ##Sugestão de aplicativo 1:
@@ -46,6 +43,11 @@ Aplicativo de registro de atividades diárias.
 * ...
 
 ## Referências (Selecionado somente as mais interessantes):
+
+**React e React Native.**
+* http://makeitopen.com/tutorials/building-the-f8-app/planning/
+* https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree
+* https://youtu.be/xsSnOQynTHs
 
 **Comparação entre Angular2 e React.**
 Mesma aplicação e mesmos frameworks
