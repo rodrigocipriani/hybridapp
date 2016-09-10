@@ -16,6 +16,7 @@ Levando em consideração:
 * React e React Native
 * Babel
 * Realtime app (socket.io / engine.io / sockjs.js)
+* Http (axios)
 
 ##Sugestão de aplicativo 1:
 
@@ -42,6 +43,17 @@ Aplicativo de registro de atividades diárias.
 * Relatório temporal das atividades
 * ...
 
+## Sugestão de aplicativo 3:
+
+Aplicativo whitelist/blacklist
+
+**Funcionalidades**
+
+* Indicar se é favorável (white) ou desfavorável (black) um estabecimento
+* GPS
+* Oauth (Facebook, G+, Twitter)
+* ...
+
 ## Referências (Selecionado somente as mais interessantes):
 
 **React e React Native.**
@@ -63,5 +75,15 @@ Testar no celular, etc
 
 **Angular 2 e React Native juntos**
 
-Em português: https://www.infoq.com/br/news/2016/06/angular2-react-native
-Em inglês (mais completo): http://angularjs.blogspot.com.br/2016/04/angular-2-react-native.html
+* Em português: https://www.infoq.com/br/news/2016/06/angular2-react-native
+* Em inglês (mais completo): http://angularjs.blogspot.com.br/2016/04/angular-2-react-native.html
+
+**Leituras**
+
+* React Starter Kit Isomorphic - https://github.com/kriasoft/react-starter-kit
+* Angular 2 Universal. Isomorphic App - https://github.com/angular/universal
+* Redux + React - https://css-tricks.com/learning-react-redux/
+
+* Isomorphic - https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/
+* Isomorphic - https://www.lullabot.com/articles/what-is-an-isomorphic-application
+* Isomorphic - http://isomorphic.net/
