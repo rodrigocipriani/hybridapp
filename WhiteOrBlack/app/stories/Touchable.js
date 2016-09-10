@@ -2,7 +2,7 @@ import React from 'react';
 import { storiesOf, action } from '@kadira/storybook';
 
 import { Text } from 'react-native';
-import { Touchable } from '../components/Touchable';
+import { Touchable } from '../common/Touchable';
 
 storiesOf('Touchable', module)
   .add('with Text', () => (
