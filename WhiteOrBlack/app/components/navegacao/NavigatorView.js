@@ -13,23 +13,33 @@ import {
     DrawerLayoutAndroid
 } from 'react-native';
 
-import {Touchable} from '../../common/Touchable';
+import {NavigatorItem} from './NavigatorItem';
 
 export const NavigatorView = () => (
-    <View style={{flex: 1, backgroundColor: '#fff'}}>
-        <Text style={{margin: 10, fontSize: 15, textAlign: 'center'}}>I'm in the Drawer!</Text>
+    <View style={{flex: 1, backgroundColor: '#f1f1f1'}}>
+        <Image
+            style={styles.logo}
+            source={require('../../assets/whiteorblack-logo.png')}
+        />
+        <Text style={styles.logoText}>White or Black</Text>
         <Text>{' '}</Text>
-        <Touchable style={styles.touchable} onPress={()=> console.log("Can't touched this?")}>
-            <Text style={{margin: 20, fontSize: 15, textAlign: 'left'}}>Menu 1</Text>
-        </Touchable>
-        <Text style={{margin: 20, fontSize: 15, textAlign: 'left'}}>Menu 2</Text>
-        <Text style={{margin: 20, fontSize: 15, textAlign: 'left'}}>Menu 3</Text>
-        <Text style={{margin: 20, fontSize: 15, textAlign: 'left'}}>Menu 4</Text>
+        <NavigatorItem>Menu 1</NavigatorItem>
+        <NavigatorItem>Menu 2</NavigatorItem>
+        <NavigatorItem>Menu 3</NavigatorItem>
+        <NavigatorItem>Menu 4</NavigatorItem>
+        <NavigatorItem>Menu 5</NavigatorItem>
     </View>
 )
 
 const styles = StyleSheet.create({
-    touchable: {
-        backgroundColor: '#CAE6FE',
+    logo: {
+        alignSelf: 'center',
+        marginBottom: 10,
+        marginTop: 10
     },
+    logoText: {
+        fontWeight: 'bold',
+        textAlign: 'center',
+        marginBottom: 10
+    }
 });

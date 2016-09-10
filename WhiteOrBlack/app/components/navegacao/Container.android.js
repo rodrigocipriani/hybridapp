@@ -20,7 +20,7 @@ export const Container = ({
                 drawerWidth={300}
                 drawerPosition={DrawerLayoutAndroid.positions.Left}
                 renderNavigationView={NavigatorView}>
-                <Text>ANDROID</Text>
+                <Text>Barra superior do ANDROID</Text>
                 {children}
             </DrawerLayoutAndroid>
 

@@ -40,7 +40,7 @@ export class App extends Component {
                             />
                             <Touchable style={styles.touchable} onPress={()=> console.log("Can't touched this?")}>
                                 <Text style={styles.welcome}>
-                                    No Browser!!!!!
+                                    No Browser!!
                                 </Text>
                                 <Text style={styles.instructions}>
                                     To get started, edit index.web.js
@@ -61,8 +61,7 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         justifyContent: 'center',
-        alignItems: 'center',
-        backgroundColor: '#F5FCFF',
+        alignItems: 'center'
     },
     logo: {
         alignSelf: 'center',
