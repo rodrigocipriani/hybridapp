@@ -28,25 +28,6 @@ export class App extends Component {
 
         return (
             <Container>
-
-                <Navigator
-                    style={styles.navigator}
-                    initialRoute={routes[0]}
-                    initialRouteStack={routes}
-                    renderScene={(route, navigator) =>
-                        <TouchableHighlight onPress={() => {
-                            if (route.index === 0) {
-                                navigator.push(routes[1]);
-                            } else {
-                                navigator.pop();
-                            }
-                        }}>
-                            <Text>Hello {route.title}!</Text>
-                        </TouchableHighlight>
-
-                    }
-
-                />
                 <HomeScene />
             </Container>
         );
